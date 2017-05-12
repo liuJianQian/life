@@ -1,0 +1,786 @@
+{
+  "firstpage": {
+    "index": {
+      "swiper":[
+        "../img/Carousel/1331bbdc20be49709d3a453747e69929_d1242x0.jpg",
+        "../img/Carousel/4029bf93ab4d4d6aa32650ad337531b6_d1242x0.jpg",
+        "../img/Carousel/4950f6e9ff93413489fda6e4653b9d15_d1242x0.jpg",
+        "../img/Carousel/5c2e59392b1d4e87b1b96579c422a4bd_d1242x0.jpg",
+        "../img/Carousel/adba377c8d9c4987a81b3625d2635ca8_d1242x0.jpg",
+        "../img/Carousel/b5afca47ee3f42daab2f8a92fd589dc1_d1242x0.jpg",
+        "../img/Carousel/5c2e59392b1d4e87b1b96579c422a4bd_d1242x0.jpg"
+      ],
+      "combowraper": {
+        "imgs": [
+          {
+            "id": 0,
+            "url": "http://i.lifevccdn.com/upload/combinationchart/e561e13a48f64df3a6305cc4bd72935d_d1242x0.jpg",
+            "coords": [
+              "0,11,172,99",
+              "172,10,375,54",
+              "172,56,375,98"
+            ]
+          },
+          {
+            "id": 1,
+            "url": "http://i.lifevccdn.com/upload/combinationchart/5c0c88d22a094db7a917860ea4a11fee_d1242x0.jpg",
+            "coords": [
+              "11,75,363,609"
+            ]
+          },
+          {
+            "id": 2,
+            "url": "http://i.lifevccdn.com/upload/combinationchart/be62a37a54604cf08f1aac1f976daf59_d1242x0.jpg",
+            "coords": [
+              "0,1,375,147"
+            ]
+          },
+          {
+            "id": 3,
+            "url": "http://i.lifevccdn.com/upload/combinationchart/f4d7598b89f9454ea9d19342e2035e7b_d1242x0.jpg",
+            "coords": [
+              "0,61,187,305",
+              "187,61,375,244",
+              "0,293,187,477",
+              "187,244,375,477",
+              "0,464,375,660",
+              "0,660,187,856",
+              "187,660,375,856",
+              "0,844,375,1039",
+              "0,1027,187,1223",
+              "187,1027,375,1223"
+            ]
+          },
+          {
+            "id": 4,
+            "url": "http://i.lifevccdn.com/upload/combinationchart/d1d96cc66b2e4c3ba56a6d49796ac4d7_d1242x0.jpg",
+            "coords": [
+              "0,1,371,148"
+            ]
+          },
+          {
+            "id": 5,
+            "url": "http://i.lifevccdn.com/upload/combinationchart/68f1b5429f9a4afeaba9ae5ee0647dd6_d1242x0.jpg",
+            "coords": [
+              "7,42,112,178",
+              "123,42,247,178",
+              "251,42,367,178",
+              "7,203,120,336",
+              "127,199,243,336",
+              "247,196,375,336"
+            ]
+          },
+          {
+            "id": 6,
+            "url": "http://i.lifevccdn.com/upload/combinationchart/5b4c149ee304400c895f4ce9576cdd36_d1242x0.jpg",
+            "coords": [
+              "0,0,371,344"
+            ]
+          },
+          {
+            "id": 7,
+            "url": "http://i.lifevccdn.com/upload/combinationchart/33ca81e7d3bd49cc90891ad0378c9e69_d1242x0.jpg",
+            "coords": [
+              "0,3,371,357"
+            ]
+          }
+        ]
+      }
+    },
+    "newproduce": [
+      {
+        "title": "马桶强力疏通器",
+        "url": "../../static/img/newproduce/1.jpg",
+        "empty": "热卖脱销",
+        "tag": "新品首发优惠",
+        "price": 36,
+        "oldprice": 39,
+        "lable": "新",
+        "comment": 22
+      },
+      {
+        "title": "吸管式卖萌杯",
+        "url": "../../static/img/newproduce/2.jpg",
+        "empty": "热卖脱销",
+        "tag": "新品首发优惠",
+        "price": 33,
+        "oldprice": 38,
+        "lable": "新",
+        "comment": 26
+      },
+      {
+        "title": "高档水晶玻璃果盘",
+        "url": "../../static/img/newproduce/3.jpg",
+        "empty": "热卖脱销",
+        "tag": "新品首发优惠",
+        "price": 35,
+        "oldprice": 56,
+        "lable": "新",
+        "comment": 6
+      },
+      {
+        "title": "巴洛克水晶杯",
+        "url": "../../static/img/newproduce/4.jpg",
+        "empty": "热卖脱销",
+        "tag": "新品首发优惠",
+        "price": 56,
+        "oldprice": 68,
+        "lable": "新",
+        "comment": 6
+      }
+    ],
+    "allproduct": [
+      {
+        "id": 1,
+        "goodslist": [
+          {
+            "name": "家务工具",
+            "url": "../../static/img/allProduce/1.jpg"
+          },
+          {
+            "name": "家庭清洁剂",
+            "url": "../../static/img/allProduce/2.jpg"
+          },
+          {
+            "name": "防霉除菌",
+            "url": "../../static/img/allProduce/3.jpg"
+          },
+          {
+            "name": "衣物收纳",
+            "url": "../../static/img/allProduce/4.jpg"
+          },
+          {
+            "name": "百纳箱",
+            "url": "../../static/img/allProduce/5.jpg"
+          },
+          {
+            "name": "生活必备",
+            "url": "../../static/img/allProduce/6.jpg"
+          },
+          {
+            "name": "酵素洗衣液",
+            "url": "../../static/img/allProduce/7.jpg"
+          },
+          {
+            "name": "魔力挂钩",
+            "url": "../../static/img/allProduce/8.jpg"
+          },
+          {
+            "name": "地毯地垫",
+            "url": "../../static/img/allProduce/9.jpg"
+          }
+        ],
+        "contentproduct": [
+          {
+            "title": "马桶强力疏通器",
+            "url": "../img/newproduce/1.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 36,
+            "oldprice": 39,
+            "lable": "新",
+            "comment": 22
+          },
+          {
+            "title": "吸管式卖萌杯",
+            "url": "../img/newproduce/2.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 33,
+            "oldprice": 38,
+            "lable": "新",
+            "comment": 26
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/3.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "巴洛克水晶杯",
+            "url": "../img/newproduce/4.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 56,
+            "oldprice": 68,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/5.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "goodslist": [
+          {
+            "name": "防霉除菌",
+            "url": "../../static/img/allProduce/3.jpg"
+          },
+          {
+            "name": "生活必备",
+            "url": "../../static/img/allProduce/6.jpg"
+          },
+          {
+            "name": "家务工具",
+            "url": "../../static/img/allProduce/1.jpg"
+          },
+          {
+            "name": "衣物收纳",
+            "url": "../../static/img/allProduce/4.jpg"
+          },
+          {
+            "name": "百纳箱",
+            "url": "../../static/img/allProduce/5.jpg"
+          },
+          {
+            "name": "家庭清洁剂",
+            "url": "../../static/img/allProduce/2.jpg"
+          },
+          {
+            "name": "酵素洗衣液",
+            "url": "../../static/img/allProduce/7.jpg"
+          },
+          {
+            "name": "魔力挂钩",
+            "url": "../../static/img/allProduce/8.jpg"
+          },
+          {
+            "name": "地毯地垫",
+            "url": "../../static/img/allProduce/9.jpg"
+          }
+        ],
+        "contentproduct": [
+          {
+            "title": "马桶强力疏通器",
+            "url": "../img/newproduce/1.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 36,
+            "oldprice": 39,
+            "lable": "新",
+            "comment": 22
+          },
+          {
+            "title": "吸管式卖萌杯",
+            "url": "../img/newproduce/2.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 33,
+            "oldprice": 38,
+            "lable": "新",
+            "comment": 26
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/3.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "巴洛克水晶杯",
+            "url": "../img/newproduce/4.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 56,
+            "oldprice": 68,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/5.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "goodslist": [
+          {
+            "name": "家务工具",
+            "url": "../../static/img/allProduce/1.jpg"
+          },
+          {
+            "name": "家庭清洁剂",
+            "url": "../../static/img/allProduce/2.jpg"
+          },
+          {
+            "name": "防霉除菌",
+            "url": "../../static/img/allProduce/3.jpg"
+          },
+          {
+            "name": "衣物收纳",
+            "url": "../../static/img/allProduce/4.jpg"
+          },
+          {
+            "name": "百纳箱",
+            "url": "../../static/img/allProduce/5.jpg"
+          },
+          {
+            "name": "生活必备",
+            "url": "../../static/img/allProduce/6.jpg"
+          },
+          {
+            "name": "酵素洗衣液",
+            "url": "../../static/img/allProduce/7.jpg"
+          },
+          {
+            "name": "魔力挂钩",
+            "url": "../../static/img/allProduce/8.jpg"
+          },
+          {
+            "name": "地毯地垫",
+            "url": "../../static/img/allProduce/9.jpg"
+          }
+        ],
+        "contentproduct": [
+          {
+            "title": "马桶强力疏通器",
+            "url": "../img/newproduce/1.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 36,
+            "oldprice": 39,
+            "lable": "新",
+            "comment": 22
+          },
+          {
+            "title": "吸管式卖萌杯",
+            "url": "../img/newproduce/2.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 33,
+            "oldprice": 38,
+            "lable": "新",
+            "comment": 26
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/3.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "巴洛克水晶杯",
+            "url": "../img/newproduce/4.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 56,
+            "oldprice": 68,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/5.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "goodslist": [
+          {
+            "name": "防霉除菌",
+            "url": "../../static/img/allProduce/3.jpg"
+          },
+          {
+            "name": "生活必备",
+            "url": "../../static/img/allProduce/6.jpg"
+          },
+          {
+            "name": "家务工具",
+            "url": "../../static/img/allProduce/1.jpg"
+          },
+          {
+            "name": "衣物收纳",
+            "url": "../../static/img/allProduce/4.jpg"
+          },
+          {
+            "name": "百纳箱",
+            "url": "../../static/img/allProduce/5.jpg"
+          },
+          {
+            "name": "家庭清洁剂",
+            "url": "../../static/img/allProduce/2.jpg"
+          },
+          {
+            "name": "酵素洗衣液",
+            "url": "../../static/img/allProduce/7.jpg"
+          },
+          {
+            "name": "魔力挂钩",
+            "url": "../../static/img/allProduce/8.jpg"
+          },
+          {
+            "name": "地毯地垫",
+            "url": "../../static/img/allProduce/9.jpg"
+          }
+        ],
+        "contentproduct": [
+          {
+            "title": "马桶强力疏通器",
+            "url": "../img/newproduce/1.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 36,
+            "oldprice": 39,
+            "lable": "新",
+            "comment": 22
+          },
+          {
+            "title": "吸管式卖萌杯",
+            "url": "../img/newproduce/2.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 33,
+            "oldprice": 38,
+            "lable": "新",
+            "comment": 26
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/3.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "巴洛克水晶杯",
+            "url": "../img/newproduce/4.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 56,
+            "oldprice": 68,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/5.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "goodslist": [
+          {
+            "name": "家务工具",
+            "url": "../../static/img/allProduce/1.jpg"
+          },
+          {
+            "name": "家庭清洁剂",
+            "url": "../../static/img/allProduce/2.jpg"
+          },
+          {
+            "name": "防霉除菌",
+            "url": "../../static/img/allProduce/3.jpg"
+          },
+          {
+            "name": "衣物收纳",
+            "url": "../../static/img/allProduce/4.jpg"
+          },
+          {
+            "name": "百纳箱",
+            "url": "../../static/img/allProduce/5.jpg"
+          },
+          {
+            "name": "生活必备",
+            "url": "../../static/img/allProduce/6.jpg"
+          },
+          {
+            "name": "酵素洗衣液",
+            "url": "../../static/img/allProduce/7.jpg"
+          },
+          {
+            "name": "魔力挂钩",
+            "url": "../../static/img/allProduce/8.jpg"
+          },
+          {
+            "name": "地毯地垫",
+            "url": "../../static/img/allProduce/9.jpg"
+          }
+        ],
+        "contentproduct": [
+          {
+            "title": "马桶强力疏通器",
+            "url": "../img/newproduce/1.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 36,
+            "oldprice": 39,
+            "lable": "新",
+            "comment": 22
+          },
+          {
+            "title": "吸管式卖萌杯",
+            "url": "../img/newproduce/2.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 33,
+            "oldprice": 38,
+            "lable": "新",
+            "comment": 26
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/3.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "巴洛克水晶杯",
+            "url": "../img/newproduce/4.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 56,
+            "oldprice": 68,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/5.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "goodslist": [
+          {
+            "name": "防霉除菌",
+            "url": "../../static/img/allProduce/3.jpg"
+          },
+          {
+            "name": "生活必备",
+            "url": "../../static/img/allProduce/6.jpg"
+          },
+          {
+            "name": "家务工具",
+            "url": "../../static/img/allProduce/1.jpg"
+          },
+          {
+            "name": "衣物收纳",
+            "url": "../../static/img/allProduce/4.jpg"
+          },
+          {
+            "name": "百纳箱",
+            "url": "../../static/img/allProduce/5.jpg"
+          },
+          {
+            "name": "家庭清洁剂",
+            "url": "../../static/img/allProduce/2.jpg"
+          },
+          {
+            "name": "酵素洗衣液",
+            "url": "../../static/img/allProduce/7.jpg"
+          },
+          {
+            "name": "魔力挂钩",
+            "url": "../../static/img/allProduce/8.jpg"
+          },
+          {
+            "name": "地毯地垫",
+            "url": "../../static/img/allProduce/9.jpg"
+          }
+        ],
+        "contentproduct": [
+          {
+            "title": "马桶强力疏通器",
+            "url": "../img/newproduce/1.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 36,
+            "oldprice": 39,
+            "lable": "新",
+            "comment": 22
+          },
+          {
+            "title": "吸管式卖萌杯",
+            "url": "../img/newproduce/2.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 33,
+            "oldprice": 38,
+            "lable": "新",
+            "comment": 26
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/3.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "巴洛克水晶杯",
+            "url": "../img/newproduce/4.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 56,
+            "oldprice": 68,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/5.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "goodslist": [
+          {
+            "name": "家务工具",
+            "url": "../../static/img/allProduce/1.jpg"
+          },
+          {
+            "name": "家庭清洁剂",
+            "url": "../../static/img/allProduce/2.jpg"
+          },
+          {
+            "name": "防霉除菌",
+            "url": "../../static/img/allProduce/3.jpg"
+          },
+          {
+            "name": "衣物收纳",
+            "url": "../../static/img/allProduce/4.jpg"
+          },
+          {
+            "name": "百纳箱",
+            "url": "../../static/img/allProduce/5.jpg"
+          },
+          {
+            "name": "生活必备",
+            "url": "../../static/img/allProduce/6.jpg"
+          },
+          {
+            "name": "酵素洗衣液",
+            "url": "../../static/img/allProduce/7.jpg"
+          },
+          {
+            "name": "魔力挂钩",
+            "url": "../../static/img/allProduce/8.jpg"
+          },
+          {
+            "name": "地毯地垫",
+            "url": "../../static/img/allProduce/9.jpg"
+          }
+        ],
+        "contentproduct": [
+          {
+            "title": "马桶强力疏通器",
+            "url": "../img/newproduce/1.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 36,
+            "oldprice": 39,
+            "lable": "新",
+            "comment": 22
+          },
+          {
+            "title": "吸管式卖萌杯",
+            "url": "../img/newproduce/2.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 33,
+            "oldprice": 38,
+            "lable": "新",
+            "comment": 26
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/3.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "巴洛克水晶杯",
+            "url": "../img/newproduce/4.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 56,
+            "oldprice": 68,
+            "lable": "新",
+            "comment": 6
+          },
+          {
+            "title": "高档水晶玻璃果盘",
+            "url": "../img/newproduce/5.jpg",
+            "empty": "热卖脱销",
+            "tag": "新品首发优惠",
+            "price": 35,
+            "oldprice": 56,
+            "lable": "新",
+            "comment": 6
+          }
+        ]
+      }
+    ]
+  }
+}
